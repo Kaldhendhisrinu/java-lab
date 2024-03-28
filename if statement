@@ -1,0 +1,9 @@
+public class if Statement{
+       public Static void main(String[]args){
+              int num = -100;
+                 if(num>0){
+         system.out.println("number is positive");
+               }
+        system.out.println("if condition terminated control  is outside the condition block");
+      }
+}
