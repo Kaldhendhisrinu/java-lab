@@ -1,0 +1,11 @@
+Narrowcast example.java
+
+public class narrowcast Example{
+    public static void main(String[] args){
+         int mark =70;
+         double dmarks=(double)marks;
+         System.out.println(marks);
+         System.out.println(dmarks);
+       }
+}
+   
